@@ -10,7 +10,7 @@ CRACK FACEBOOK
 
 ### Github
 
-    https://github.com/aryhas/crack
+    https://github.com/aryhas/upil
 
 
 <H1 align="center">
@@ -33,6 +33,6 @@ INSTALLATION TERMUX
 
     git clone https://github.com/aryhas/upil
 
-    cd crack
+    cd upil
 
     python2 fb.py
