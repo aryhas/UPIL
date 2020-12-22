@@ -1,19 +1,20 @@
 <H1 align="center">
 CRACK FACEBOOK
 </H1>
+###MENU
 
-### Github
+    Crack Daftar Teman
+    Crack ID Publik/Dari Teman Ke Teman
+    Bot Comentar/Flood Comentar
+
+### GITHUB
 
     https://github.com/aryhas/upil
 
 
 <H1 align="center">
-INSTALLATION
+INSTALLATION TERMUX
 </H1>
- 
-    
-### Termux
-
     pkg update
 
     pkg upgrade
