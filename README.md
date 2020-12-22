@@ -15,12 +15,12 @@ CRACK FACEBOOK
     https://github.com/aryhas/upil
 
 <p align="center">
-  <a><br> Pilihan Crack </br></a>
+  Pilihan Crack fb
   <img src="image/1.0.png" width="640" title="Version 1.4" alt="Version 1.4">
 </p>
 
 <p align="center">
-  <a><br> Bot Comentar </br></a>
+ Bot Comentar
   <img src="image/1.1.png" width="640" title="Version 1.5" alt="Version 1.5">
 </p>
 
